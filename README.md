@@ -57,7 +57,7 @@ stockflow/
 
 ## 📸 Screenshots
 
-![StockFlow Dashboard](./frontend/src/assets/hero.png)
+![StockFlow Dashboard](./screenshot.png)
 
 - **Dashboard View**: Clean grid layout with the inventory list on the left and add form on the right.
 - **Validation State**: Clean error messages for invalid form submissions.
